@@ -1,11 +1,5 @@
-import React from 'react'
+import React from 'react';
 
 export default function NavBar() {
-  return (
-    <div className=''>
-        хуита
-        
-    </div>
-  )
+  return <div className="">голова</div>;
 }
-
